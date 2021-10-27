@@ -1,0 +1,14 @@
+.cen {
+  margin: auto;
+  width: 50%;
+  border: 3px solid black;
+  padding: 10px;
+}
+.in {
+  margin: auto;
+  width: 50%;
+  padding: 200px;
+}
+.c1 {
+  margin-bottom: 20px;
+}
